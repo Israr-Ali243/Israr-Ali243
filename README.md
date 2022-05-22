@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Israr Ali
 - 👀 A Passionate Deleveloper from Pakistan
-- 🌱 I’m currently Working on Java(FrameWorks) Travelling and Tour Management System 
+- 🌱 I’m currently Working on Java FrameWorks and woking on project is Travelling and Tour Management System 
 - 💞️ All of my projects are available at 
 - 📫 How to reach me at  https://www.linkedin.com/in/israr-ali-376828218
 
